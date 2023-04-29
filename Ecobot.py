@@ -27,4 +27,4 @@ async def eco_no(ctx):
 
 
 
-bot.run("MTA5MjAzNDQ2MzkwMDM3MzA2Mg.GjLMCz.FomU5uwHJJMzkXOmTpv3iWwY9klHfUUAf_cz8g")
+bot.run("Your token")
